@@ -1,0 +1,117 @@
+#education {
+   flex: 1;
+}
+.univ {
+   font-size: 20px;
+   font-weight: normal;
+   padding-top: 10px;
+}
+
+.major {
+   font-style: italic;
+   font-weight: normal;
+   font-size: 15px;
+   padding-top: 5px;
+}
+
+.bullet {
+   display: flex;
+   align-items: center;
+}
+.list {
+   display: flex;
+   align-items: center;
+   width: 6px;
+   height: 6px;
+   border-radius: 4px;
+   background-color: gray;
+}
+
+.text {
+   font-size: 12px;
+   padding-left: 5px;
+   color: #52575c;
+}
+
+.card {
+   margin-top: 40px;
+   max-width: 900px;
+   border-top: none;
+   border-right: none;
+   border-left: none;
+   border-bottom: 1px solid #e0e0e0;
+}
+
+.col-md-4 {
+   height: 180px;
+   width: 246px;
+   left: 146px;
+   top: 1088px;
+   border-radius: 6px;
+   margin-bottom: 30px;
+}
+
+.card-title {
+   margin-top: -30px;
+   width: 365px;
+   height: 44px;
+   left: 410px;
+   top: 1077px;
+
+   font-family: Heebo;
+   font-style: normal;
+   font-weight: bold;
+   font-size: 30px;
+   line-height: 44px;
+   color: #21243d;
+}
+
+/* .card-text {
+   height: 93px;
+   width: 594px;
+   left: 410px;
+   top: 1188px;
+   text-align: justify;
+} */
+
+.label {
+   width: 62px;
+   height: 25px;
+   text-align: center;
+   left: 420px;
+   top: 1141px;
+   color: white;
+   background: #142850;
+   border-radius: 16px;
+}
+
+.das {
+   margin-left: 36px;
+   width: 374px;
+   height: 34px;
+   left: 498px;
+   top: 1137px;
+   font-family: Heebo;
+   font-style: normal;
+   font-weight: normal;
+   font-size: 20px;
+   line-height: 29px;
+   color: #8695a4;
+}
+
+.footer {
+   margin-top: 100px;
+   background-color: #798777;
+   left: 0%;
+   right: 0%;
+   bottom: 0%;
+}
+
+.CR {
+   color: white;
+   text-align: center;
+   margin-top: 30px;
+   margin-bottom: 0%;
+   margin-left: -20px;
+   font-size: 13px;
+}
